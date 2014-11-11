@@ -18,7 +18,7 @@ astroids
 LOAD GAME IN BROWSER:
     Open the link below and run it (first button)
     http://www.codeskulptor.org/#user38_BwfKxjSzbo9UwxW_0.py
-    note - Please use google chrome
+    note - Please use Google Chrome
     
 HOW TO PLAY:
     UP 		- accelerate spacecraft
